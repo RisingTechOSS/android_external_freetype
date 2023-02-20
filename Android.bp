@@ -74,6 +74,7 @@ cc_defaults {
         "src/sdf/sdf.c",
         "src/sfnt/sfnt.c",
         "src/smooth/smooth.c",
+        "src/svg/ftsvg.c",
         "src/truetype/truetype.c",
         "src/type1/type1.c",
     ],
